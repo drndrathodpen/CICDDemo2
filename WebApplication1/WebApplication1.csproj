@@ -144,7 +144,6 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\Class22.cs" />
     <Compile Include="Controllers\Class1.cs" />
     <Compile Include="Controllers\CodeFile1.cs" />
     <Compile Include="Controllers\HomeController.cs" />
